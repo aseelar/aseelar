@@ -1,7 +1,6 @@
 ### Hi there 👋, my name is Aseel Ashougaa  
 #### Senior Full-Stack Developer | Team Lead | Laravel & Vue.js | SaaS & ERP Systems | Data Analyst  
 
-![Profile Banner](https://avatars.githubusercontent.com/u/161780837?s=400&u=000eb3449a3702add2062fe2f0a5460432cdd4a7&v=4)  
 
 I am a Senior Software Developer and Team Lead with extensive experience in building ERP systems, SaaS platforms, and mobile applications.  
 I have strong skills in database design and data analysis to support strategic decision-making.  
