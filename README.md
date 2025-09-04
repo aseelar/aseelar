@@ -13,7 +13,6 @@ Skills: TEAM LEADERSHIP / LARAVEL / VUE.JS / NUXT / MYSQL / DATABASE DESIGN / DA
 - ⚡ Fun fact: I love turning complex business workflows into simple digital solutions 🚀 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/aseelar)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/aseel-ashogaa//)  
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=aseelar)](https://github.com/ryo-ma/github-profile-trophy)
 
