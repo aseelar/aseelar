@@ -1,16 +1,25 @@
-## Hi there 👋
+### Hi there 👋, Hi there 👋, my name is Aseel Ashougaa
+#### Senior Full-Stack Developer | Team Lead | Laravel & Vue.js | SaaS & ERP Systems | Data Analyst
+I am a Senior Software Developer and Team Lead with extensive experience in building ERP systems, SaaS platforms, and mobile applications.
+I have strong skills in database design and data analysis to support strategic decision-making.
+I enjoy mentoring teams, leading projects, and solving complex problems with clean, scalable, and efficient code.
 
-<!--
-**aseelar/aseelar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Skills: TEAM LEADERSHIP / LARAVEL / VUE.JS / NUXT / MYSQL / DATABASE DESIGN / DATA ANALYSIS / JAVASCRIPT / HTML / CSS / SASS / AWS S3
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on Building ERP & SaaS platforms, and managing development teams. 
+- 🤔 I’m looking for help with Scaling SaaS systems and exploring advanced data visualization techniques. 
+- 💬 Ask me about Laravel, Vue.js, ERP systems, SaaS development, database design, and team leadership. 
+- 📫 How to reach me: 📧 aseel.adnan1440@gmail.com | 💼 LinkedIn: [https://www.linkedin.com/in/aseel-ashogaa/](#) 
+- ⚡ Fun fact: I love turning complex business workflows into simple digital solutions 🚀 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/aseelar)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/aseel-ashogaa//)  
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=aseelar)](https://github.com/ryo-ma/github-profile-trophy)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=aseelar&show_icons=true)  
+
+![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/aseelar/contributions?format=svg&private=false)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=aseelar)  
+
