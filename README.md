@@ -35,4 +35,4 @@ TEAM LEADERSHIP / LARAVEL / VUE.JS / NUXT / MYSQL / DATABASE DESIGN / DATA ANALY
 ---
 
 ### 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=aseelar&show_icons=true&theme=radical)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=aseelar&show_icons=true&theme=radical)
